@@ -1,7 +1,7 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
 > **Warning**
-> This library and customization project was used during Acumatica Dev Conference 2023 Day 2. This is not meant for production use as is.
+> **This library and customization project was used during Acumatica Dev Conference 2023 Day 2. This is not meant for production use as is.**
 > 
 > 
 > 
