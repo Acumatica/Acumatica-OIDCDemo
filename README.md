@@ -36,11 +36,11 @@ Once package is published on Acumatica Instance,
 
 ![Screenshot](/_ReadMeImages/Image2-UserRole.png)
 
-3. This connected application can be used in supplied Postman collection for demo purpose.
+3. This connected application can be used in supplied [Postman Collection](https://github.com/Acumatica/Acumatica-OIDCDemo/tree/main/Postman%20Collection) for demo purpose.
 
-[Postman Collection](https://github.com/Acumatica/Acumatica-OIDCDemo/tree/main/Postman%20Collection)
-
-Demonstration video is available at [2023 Acumatica Virtual Developer Conference - June 27 - 29](https://community.acumatica.com/other-developer-topics-290/2023-acumatica-virtual-developer-conference-june-27-29-17219) in Day 2 section.
+> **Note**
+>
+> Demonstration video is available at [2023 Acumatica Virtual Developer Conference - June 27 - 29](https://community.acumatica.com/other-developer-topics-290/2023-acumatica-virtual-developer-conference-june-27-29-17219) in Day 2 section.
 
 Known Issues
 ------------
