@@ -1,0 +1,4 @@
+﻿<Table TableName="Roles">
+    <Column TableName="Roles" ColumnName="UsrinSidedRoleID" ColumnType="string" AllowNull="True" MaxLength="4" DecimalPrecision="2" DecimalLength="4" IsNewColumn="True" IsUnicode="True" />
+    <Column TableName="Roles" ColumnName="UsrMindMatrixRole" ColumnType="string" AllowNull="True" MaxLength="64" DecimalPrecision="2" DecimalLength="64" IsNewColumn="True" IsUnicode="True" />
+</Table>

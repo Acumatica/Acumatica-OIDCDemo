@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyTitle>PX.OIDCDemo.Ext</AssemblyTitle>
+    <Product>PX.OIDCDemo.Ext</Product>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <OutDir>bin\$(Configuration)\</OutDir>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <WarningLevel>3</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonServiceLocator">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\CommonServiceLocator.dll</HintPath>
+    </Reference>
+    <Reference Include="IdentityServer4.Storage">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\IdentityServer4.Storage.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.Common">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.Common.Std">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.Common.Std.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.Data">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.DbServices">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.DbServices.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.Objects">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.Objects.dll</HintPath>
+    </Reference>
+    <Reference Include="PX.Oidc.Interfaces">
+      <HintPath>..\..\..\..\Program Files (x86)\Acumatica ERP\AcmDevConf2023\Bin\PX.Oidc.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
