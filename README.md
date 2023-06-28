@@ -4,7 +4,7 @@ Extension library implementing IPluginClaimProvider interface to support custom 
 ==================================
 
 
-> ###Warning
+> **Warning**
 > This library and customization project was used during Acumatica Dev Conference 2023 Day 2. This is not meant for production use as is.
 >
 >
