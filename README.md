@@ -1,15 +1,14 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
-Extension library implementing IPluginClaimProvider interface to support custom scope and claims for integrated client application
-==================================
- 
- 
 > **Warning**
 > This library and customization project was used during Acumatica Dev Conference 2023 Day 2. This is not meant for production use as is.
 > 
 > 
 > 
 
+Extension library implementing IPluginClaimProvider interface to support custom scope and claims for integrated client application
+==================================
+ 
  
 * Purpose of this GitHub project is to show case how to make Acumatica as an Identity Provider (IdP) using OpenID Connect protocol.
 * With this extension libray, you can support supplying addition information about user during Single Sign-on process as claims.
