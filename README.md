@@ -2,7 +2,7 @@
 
 > **Warning**
 > 
-> **This library and customization project was used during Acumatica Dev Conference 2023 Day 2. This is not meant for production use as is.**
+> **This library and customization project was used during Acumatica Dev Conference 2023 Day 2 to demonstrate setting up Acumatica Site as an Identity Provider (IdP) using OpenID Connect (OIDC) protocol supporting custom scopes and claims. This is not meant for production use as is.**
 > 
 > 
 > 
