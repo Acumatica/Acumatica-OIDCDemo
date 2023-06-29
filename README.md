@@ -23,7 +23,7 @@ Once package is published on Acumatica Instance,
 
 1. New Connected Application is available on Connected Application Screen (SM303010)
 
-<img align="center" src="/_ReadMeImages/Image1-ConnectedApplication.png" width=70% height=70%>
+<img align="right" src="/_ReadMeImages/Image1-ConnectedApplication.png" width=70% height=70%>
 
 2. New fields for inSided Role and MindMatrix Role are available on User Roles screen (SM201005) 
 
