@@ -33,6 +33,8 @@ Once package is published on Acumatica Instance,
 
 3. This connected application can be used in supplied [Postman Collection](https://github.com/Acumatica/Acumatica-OIDCDemo/tree/main/Postman%20Collection) for demo purpose.
 
+</br>
+</br>
 >
 > **Note**
 >
