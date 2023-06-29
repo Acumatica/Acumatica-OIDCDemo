@@ -4,8 +4,8 @@
 Extension library implementing IPluginClaimProvider interface to support custom scope and claims for integrated client application
 ==================================
  
-* Purpose of this GitHub project is to showcase how to make Acumatica as an Identity Provider (IdP) using OpenID Connect protocol with custom scope and claims.
-* With this extension libray, you can support supplying additional information about user during Single Sign-on process as claims.
+* Purpose of this GitHub project is to showcase how to make Acumatica as an Identity Provider (IdP) using OpenID Connect (OIDC) protocol with custom scopes and claims.
+* With this extension library, you can support supplying additional information about user during Single Sign-on process as claims.
 
 ### Prerequisites
 * Acumatica 2023 R1 (23.105.0016 or higher)
