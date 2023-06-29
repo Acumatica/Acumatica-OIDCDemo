@@ -23,11 +23,13 @@ Once package is published on Acumatica Instance,
 
 1. New Connected Application is available on Connected Application Screen (SM303010)
 
-<img align="right" src="/_ReadMeImages/Image1-ConnectedApplication.png" width=70% height=70%>
+   <img src="/_ReadMeImages/Image1-ConnectedApplication.png" width=70% height=70%>
+
 
 2. New fields for inSided Role and MindMatrix Role are available on User Roles screen (SM201005) 
 
-![Screenshot](/_ReadMeImages/Image2-UserRole.png)
+   ![Screenshot](/_ReadMeImages/Image2-UserRole.png)
+
 
 3. This connected application can be used in supplied [Postman Collection](https://github.com/Acumatica/Acumatica-OIDCDemo/tree/main/Postman%20Collection) for demo purpose.
 
